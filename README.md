@@ -15,6 +15,9 @@ Sou um desenvolvedor, trabalho atualmente com analise de dados, mas crio sites e
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img alt="Sql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
     <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavowsp&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
